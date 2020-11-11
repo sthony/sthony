@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Steven 👨‍💻 </h1>
 
 <p align="center"> 
-  A software engineer from Jakarta, Indonesia 
+  I am a Software Engineer of SweetEscape Kenangan Indonesia
 </p>
-
 
 <p align='center'>
   <b>Tech Stack:</b></br></br> 
@@ -19,6 +18,13 @@
   <a href="https://linked.com/in/steven-anthony">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://stevenanthony.id">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align='center'>
+   <img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"> <a href="https://stevenanthony.id">stevenanthony.id</a>
 </p>
 <!--
 **sthony/sthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
