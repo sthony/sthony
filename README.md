@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Steven 👨‍💻 </h1>
 
 <p align="center"> 
-  I am a Software Engineer of SweetEscape Kenangan Indonesia
+  I am a Full Stack Engineer of FinAccel
 </p>
 
 <p align='center'>
