@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> <a href="https://stevenanthony.id">stevenanthony.id</a>
+   💬 <a href="https://stevenanthony.id">stevenanthony.id</a>
 </p>
 <!--
 **sthony/sthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
