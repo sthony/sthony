@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-   <img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"> <a href="https://stevenanthony.id">stevenanthony.id</a>
+   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <a href="https://stevenanthony.id">stevenanthony.id</a>
 </p>
 <!--
 **sthony/sthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
